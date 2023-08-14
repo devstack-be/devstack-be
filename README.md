@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natan (Devstack)</h1>
 <h3 align="center">A passionate full-stack developer from Belgium</h3>
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **CI/D and tests**
 - 🌱 I’m currently working most of the time on **node js** **Vue.js** and **Laravel**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
