@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Belgium</h3>
 
 - 🌱 I’m currently learning **CI/D and tests**
-- 🌱 I’m currently working most of the time on **node js** **Vue.js** and **Laravel**
+- 🌱 I’m currently working most of the time on **Vue.js**, **Nuxt 3** and **Laravel**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devstack-natan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devstack-natan" height="30" width="40" /></a>
